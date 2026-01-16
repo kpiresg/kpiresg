@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Kauan Pires<br>Coding in Java☕.  Macaé, Brazil.  Backend & Chill.</p>
+<p align="left">Kauan Pires, 18y<br>Coding in Java☕.  Macaé, Brazil.  Backend & Chill.</p>
 
 ###
 
