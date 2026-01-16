@@ -15,7 +15,7 @@
 ###
 
 ### Featured Project
-[AcaiPag-API](https://github.com/kpiresg/AcaiPag-API)
+[**AcaiPag-API**](https://github.com/kpiresg/AcaiPag-API)
 *REST API for financial transactions built with Java and Spring Boot.*
 
 <h2 align="left">Stack</h2>
