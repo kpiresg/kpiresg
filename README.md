@@ -1,24 +1,35 @@
-<h1 align="left">Hey, welcome!</h1>
+<h1 align="left">Olá, bem-vindo(a)! 👋</h1>
 
 ###
 
-<p align="left">Kauan Pires, 18y<br>Coding in Java☕.  Macaé, Brazil.  Backend & Chill.</p>
+<p align="left">Kauan Pires, 18 anos<br>Programando em Java☕.  Macaé, Brasil.  Backend & Chill.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">Information Systems student focused on backend development with Java and Spring.<br>Building efficient and innovative solutions through modern technologies. <br>Driven to evolve as a complete developer by delivering high-quality software.</p>
+<p align="left">Estudante de Sistemas de Informação focado em desenvolvimento backend com Java e Spring.<br>Construindo soluções eficientes e inovadoras através de tecnologias modernas. <br>Motivado a evoluir como um desenvolvedor completo, entregando software de alta qualidade.</p>
 
 ###
 
-### Featured Project
+<h2 align="left">📺 Projeto Especial: LearningJava</h2>
+
+<p align="left">Sou o criador do canal <strong>LearningJava</strong> no YouTube, onde ensino os fundamentos da linguagem Java para outros estudantes de forma simples e direta. Acredito que ensinar é a melhor maneira de aprender e consolidar conhecimento.</p>
+
+> [**Acesse aqui o Canal LearningJava**](https://www.youtube.com/@LearningJ01) 🚀
+
+###
+
+<h2 align="left">🚀 Projeto em Destaque</h2>
+
 [**AcaiPag-API**](https://github.com/kpiresg/AcaiPag-API)
-*REST API for financial transactions built with Java and Spring Boot.*
+*API REST para transações financeiras construída com Java e Spring Boot.*
 
-<h2 align="left">Stack</h2>
+###
+
+<h2 align="left">Minha Stack</h2>
 
 ###
 
