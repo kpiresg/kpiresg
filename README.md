@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Kauan Pires, 18 anos<br>Explorando o universo de Python, Ciência de Dados e Java. Macaé, Brasil. 🚀</p>
+<p align="left">Kauan Pires, 19 anos<br>Explorando o universo de Python, Ciência de Dados e Java. Macaé, Brasil. 🚀</p>
 
 ###
 
