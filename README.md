@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Kauan Pires, 18 anos<br>Programando em Java☕.  Macaé, Brasil.  Backend & Chill.</p>
+<p align="left">Kauan Pires, 18 anos<br>Explorando o universo de Python, Ciência de Dados e Java. Macaé, Brasil. 🚀</p>
 
 ###
 
@@ -10,19 +10,22 @@
 
 ###
 
-<p align="left">Estudante de Sistemas de Informação focado em desenvolvimento backend com Java e Spring.<br>Construindo soluções eficientes e inovadoras através de tecnologias modernas. <br>Motivado a evoluir como um desenvolvedor completo, entregando software de alta qualidade.</p>
+<p align="left">Estudante de Sistemas de Informação com foco em Python e Ciência de Dados. Apaixonado por transformar dados em insights e criar soluções inteligentes utilizando visão computacional e backend robusto em Java.</p>
 
 ###
 
 <h2 align="left">📺 Projeto Especial: LearningJava</h2>
 
-<p align="left">Sou o criador do canal <strong>LearningJava</strong> no YouTube, onde ensino os fundamentos da linguagem Java para outros estudantes de forma simples e direta. Acredito que ensinar é a melhor maneira de aprender e consolidar conhecimento.</p>
+<p align="left">Sou o criador do canal <strong>LearningJava</strong> no YouTube, onde ensino os fundamentos de Java. Acredito que compartilhar conhecimento é a melhor forma de evoluir.</p>
 
 > [**Acesse aqui o Canal LearningJava**](https://www.youtube.com/@LearningJ01) 🚀
 
 ###
 
-<h2 align="left">🚀 Projeto em Destaque</h2>
+<h2 align="left">🚀 Projetos em Destaque</h2>
+
+[**OpenSlash**](https://github.com/kpiresg/OpenSlash)
+*Jogo estilo Fruit Ninja controlado por gestos em tempo real, utilizando Python, OpenCV e MediaPipe.*
 
 [**AcaiPag-API**](https://github.com/kpiresg/AcaiPag-API)
 *API REST para transações financeiras construída com Java e Spring Boot.*
@@ -34,17 +37,20 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <!-- Python e Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <!-- Bancos e Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
-
-###
