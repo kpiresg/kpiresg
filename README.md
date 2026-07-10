@@ -10,25 +10,24 @@
 
 ###
 
-<p align="left">Estudante de Sistemas de Informação com foco em Python e Ciência de Dados. Apaixonado por transformar dados em insights e criar soluções inteligentes utilizando visão computacional e backend robusto em Java.</p>
+<p align="left">Estudante de Sistemas de Informação com foco em Python e Ciência de Dados. Apaixonado por transformar dados em insights e criar soluções inteligentes utilizando visão computacional, com uma base sólida em desenvolvimento backend Java.</p>
 
 ###
 
-<h2 align="left">📺 Projeto Especial: LearningJava</h2>
+<h2 align="left">🚀 Projeto em Destaque</h2>
 
-<p align="left">Sou o criador do canal <strong>LearningJava</strong> no YouTube, onde ensino os fundamentos de Java. Acredito que compartilhar conhecimento é a melhor forma de evoluir.</p>
+<h3 align="left">OpenSlash</h3>
+<p align="left">Um jogo interativo estilo <i>Fruit Ninja</i> controlado por gestos em tempo real. Desenvolvido com Python, aplicando técnicas de visão computacional e processamento de imagem com MediaPipe e OpenCV.</p>
 
-> [**Acesse aqui o Canal LearningJava**](https://www.youtube.com/@LearningJ01) 🚀
+> [**Acesse o código do OpenSlash**](https://github.com/kpiresg/OpenSlash) 🎮
 
 ###
 
-<h2 align="left">🚀 Projetos em Destaque</h2>
+<h2 align="left">📺 Conteúdo Educativo: LearningJava</h2>
 
-[**OpenSlash**](https://github.com/kpiresg/OpenSlash)
-*Jogo estilo Fruit Ninja controlado por gestos em tempo real, utilizando Python, OpenCV e MediaPipe.*
+<p align="left">Sou o criador do canal <strong>LearningJava</strong> no YouTube, onde ensino os fundamentos da linguagem Java para outros estudantes de forma prática e direta.</p>
 
-[**AcaiPag-API**](https://github.com/kpiresg/AcaiPag-API)
-*API REST para transações financeiras construída com Java e Spring Boot.*
+> [**Acesse aqui o Canal LearningJava**](https://www.youtube.com/@LearningJ01) ☕
 
 ###
 
@@ -42,14 +41,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
   <img width="12" />
-  <!-- Java -->
+  <!-- Java (Adicional) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
   <img width="12" />
   <!-- Bancos e Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
